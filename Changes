@@ -1,0 +1,6 @@
+Revision history for Perl extension MailJet::RPCXML.
+
+0.01  Tue Apr 16 13:14:36 2013
+	- original version; created by h2xs 1.23 with options
+		-AX --skip-exporter --use-new-tests -n MailJet::RPCXML
+
